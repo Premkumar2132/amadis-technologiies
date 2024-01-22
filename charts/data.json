@@ -1,0 +1,257 @@
+{
+    "count": [
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonCloudWatch",
+        "count": 4
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonEC2",
+        "count": 2
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonRDS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonECS",
+        "count": 2
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonEKS",
+        "count": 5
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonCloudWatch",
+        "count": 4
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonEC2",
+        "count": 2
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonRDS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonECS",
+        "count": 2
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonEKS",
+        "count": 5
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonCloudWatch",
+        "count": 4
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonEC2",
+        "count": 2
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonRDS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonECS",
+        "count": 2
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonEKS",
+        "count": 5
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonCloudWatch",
+        "count": 3
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonEC2",
+        "count": 2
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonRDS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonECS",
+        "count": 1
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonEKS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonCloudWatch",
+        "count": 3
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonEC2",
+        "count": 2
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonRDS",
+        "count": 3
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonECS",
+        "count": 1
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonEKS",
+        "count": 3
+      }
+    ],
+    "cost": [
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonCloudWatch",
+        "cost": 130.17165128871906
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonEC2",
+        "cost": 393.7235318789927
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonRDS",
+        "cost": 114.32561887180003
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonECS",
+        "cost": 0.5924400000000001
+      },
+      {
+        "date": "2023-01-01",
+        "productCode": "AmazonEKS",
+        "cost": 24.819605499999998
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonCloudWatch",
+        "cost": 122.17165128871906
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonEC2",
+        "cost": 326.7235318789927
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonRDS",
+        "cost": 98.32561887180003
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonECS",
+        "cost": 0.6924400000000001
+      },
+      {
+        "date": "2023-01-02",
+        "productCode": "AmazonEKS",
+        "cost": 28.819605499999998
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonCloudWatch",
+        "cost": 48.17165128871906
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonEC2",
+        "cost": 78.7235318789927
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonRDS",
+        "cost": 145.32561887180003
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonECS",
+        "cost": 0.4924400000000001
+      },
+      {
+        "date": "2023-01-03",
+        "productCode": "AmazonEKS",
+        "cost": 22.819605499999998
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonCloudWatch",
+        "cost": 122.17165128871906
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonEC2",
+        "cost": 269.7235318789927
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonRDS",
+        "cost": 114.32561887180003
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonECS",
+        "cost": 0.7924400000000001
+      },
+      {
+        "date": "2023-01-04",
+        "productCode": "AmazonEKS",
+        "cost": 12.819605499999998
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonCloudWatch",
+        "cost": 130.17165128871906
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonEC2",
+        "cost": 393.7235318789927
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonRDS",
+        "cost": 114.32561887180003
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonECS",
+        "cost": 0.5924400000000001
+      },
+      {
+        "date": "2023-01-05",
+        "productCode": "AmazonEKS",
+        "cost": 24.819605499999998
+      }
+    ]
+  }
+  
