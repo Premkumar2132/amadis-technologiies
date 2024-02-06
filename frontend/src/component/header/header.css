@@ -1,0 +1,121 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .iconContainer {
+    cursor: pointer;
+    margin: 0 10px;
+    transition: transform 0.2s ease;
+  }
+  
+  .iconContainer:hover {
+    transform: translateY(-2px);
+  }
+  
+  .searchContainer {
+    position: relative;
+  }
+  
+  input[type="text"] {
+    padding: 8px 40px 8px 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    outline: none;
+    width: 250px;
+  }
+  
+  .searchIcon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  
+  /* Custom styles for each icon */
+  .heart {
+    color: #ff6961;
+  }
+  
+  .login {
+    color: #007bff;
+  }
+  
+  .signup {
+    color: #ffc107;
+  }
+  
+  .cart {
+    color: #28a745;
+  }
+  
+  /* Additional styling for the logo */
+  .logoContainer img{
+    height: auto;
+    width: 100px;
+  }
+  /* header.css */
+.darkModeToggle {
+    width: 48px;
+    height: 24px;
+    border-radius: 12px;
+    background-color: #eaeaea; /* Light mode background color */
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .darkModeToggle.dark {
+    background-color: #333; /* Dark mode background color */
+  }
+  
+  .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff; /* Circle color */
+    transition: transform 0.3s ease;
+  }
+  
+  .darkModeToggle.dark .circle {
+    transform: translateX(24px); /* Move circle to the right in dark mode */
+  }
+  /* header.css */
+
+/* Styles for elements inside header when in dark mode */
+.header.darkMode {
+    color: #fff; /* Set text color to white in dark mode */
+  }
+  
+  /* Styles for the logo image */
+  .logoContainer img {
+    height: auto;
+    width: 100px;
+    /* Additional styles for logo text color */
+    color: #333; /* Set text color to dark in light mode */
+  }
+  
+  /* Custom styles for each icon */
+  /* Additional styles for icon colors in light mode */
+  .header.lightMode .heart {
+    color: #ff6961;
+  }
+  .header.lightMode .login {
+    color: #007bff;
+  }
+  .header.lightMode .signup {
+    color: #ffc107;
+  }
+  .header.lightMode .cart {
+    color: #28a745;
+  }
+  
+  
+  

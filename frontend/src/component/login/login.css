@@ -1,0 +1,32 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .login-card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-card input,
+  .login-card button {
+    margin-bottom: 16px;
+  }
+  
+  .login-card button {
+    width: 100%;
+    transition: transform 0.2s ease;
+  }
+  
+  .login-card button:hover {
+    transform: scale(1.05);
+  }
+  
